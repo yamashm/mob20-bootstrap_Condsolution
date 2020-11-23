@@ -6,7 +6,7 @@ Uma rede de gestão e compartilhamento de informações para condomínios focado
 
 ## Grupo
 
-Demétrius Tavares de Tavares e Paula - RM 338132 
-Marcelo Toshio Yamashita - RM 337940 
-Dorenalto Mangueira Couto - RM 338609 
-Bruno Fonseca de Almeida - RM 337107
+- Demétrius Tavares de Tavares e Paula - RM 338132 
+- Marcelo Toshio Yamashita - RM 337940 
+- Dorenalto Mangueira Couto - RM 338609 
+- Bruno Fonseca de Almeida - RM 337107
