@@ -1,10 +1,10 @@
-## Produto
+# Produto
 
-Solução para condomínios e moradores
+### Solução para condomínios e moradores
 
 Uma rede de gestão e compartilhamento de informações para condomínios focado no síndico e moradores que desejam uma maior participação, integração, informação e transparência. Melhorando o processo de gestão, o acesso a informação e participação de todos.
 
-## Grupo
+# Grupo
 
 - Demétrius Tavares de Tavares e Paula - RM 338132 
 - Marcelo Toshio Yamashita - RM 337940 
